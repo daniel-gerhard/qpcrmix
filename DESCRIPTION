@@ -1,0 +1,11 @@
+Package: qpcrmix
+Type: Package
+Title: Mixed model analysis of qPCR data
+Version: 0.1-0
+Date: 2013-03-15
+Author: Daniel Gerhard
+Maintainer: Daniel Gerhard <gerhard@biostat.uni-hannover.de>
+Description: An R implementation of the SAS Macro presented in Steibel et al. (2009).
+Depends: lme4, multcomp, ggplot2, MASS, Matrix, parallel
+License: GPL
+Packaged: 2012-11-26 08:46:01 UTC; daniel
