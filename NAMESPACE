@@ -1,7 +1,6 @@
 import(Matrix)
 export(qpcr)
 exportClasses("qpcrmacro")
-importFrom("lme4", print)
 
 S3method(print, qpcrmacro)
 
